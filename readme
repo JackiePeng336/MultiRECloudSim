@@ -1,0 +1,3 @@
+使用Log的时候注意
+    1）不想看某部分代码的log，提前调用Log.setDisabled(true)，不过记得在下次打印想看的日志之前设置回去Log.setDisabled(false)。推荐使用的时候跟使用锁一样使用。set-true跟set-false成对出现。
+    2）日志打印通用Log.printLine()。

@@ -1,0 +1,19 @@
+.idea/
+MultiRECloudSim3.0.iml
+MultiRECloudSim3.0.mvn.iml
+replay_pid27256.log
+*.zip
+
+*.iml
+out
+gen
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+my/src/main/resources/CSV
+my/src/main/resources/progress
+
+my/target/
+
+source/target/

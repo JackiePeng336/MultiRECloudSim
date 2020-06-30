@@ -1,0 +1,8 @@
+============================================================
+ The sources percent is 10.0%
+ ssj_ops: NaN;  AvgPower: NaN
+ PerformanceToPower: NaN
+============================================================
+ The sources percent is 10.0%
+ ssj_ops: NaN;  AvgPower: NaN
+ PerformanceToPower: NaN

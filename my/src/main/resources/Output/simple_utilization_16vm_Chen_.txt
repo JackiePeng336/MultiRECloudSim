@@ -1,0 +1,3 @@
+Host#0
+TotalPower: 0.000000
+AvgPower: NaN
